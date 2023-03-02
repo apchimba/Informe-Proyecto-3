@@ -18,7 +18,7 @@
 
 ## 3. EXPLICACION DEL PROCEDIMIENTO
 
-![](https://github.com/apchimba/Informe-Proyecto-3/blob/main/grafica.png)
+![](https://github.com/apchimba/Informe-Proyecto-3/blob/main/grafica.jpg)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
 

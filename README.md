@@ -14,7 +14,7 @@
 
 ## 2. MARCO TEORICO
 
-![](https://github.com/apchimba/Informe-Laboratorio-2/blob/main/Circuitoescalera.png)
+![](https://github.com/apchimba/Informe-Proyecto-3/blob/main/Amdeaudio.png)
 
 ## 3. EXPLICACION DEL PROCEDIMIENTO
 

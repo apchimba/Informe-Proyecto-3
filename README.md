@@ -8,9 +8,7 @@
 
 ## 1. OBJETIVOS
 
-- Analizar y comprender el funcionamiento de los condensadores en un circuito amplificador.
-- Aprender a realizar circuitos eléctricos que realizen amplificaciones de sonido.
-- Realizar el montaje de circuitos integrados, condensadores y potenciadores.
+- Analizar el funcionamiento de un amplificador de audio, y la creación de este circuito mediante conocimientos previos de este parcial de circuitos eléctricos.
 
 ## 2. MARCO TEORICO
 
@@ -24,7 +22,9 @@
 
 ### 4.1. OBJETIVO DE LA PRACTICA
 
--
+- Analizar y comprender el funcionamiento de los condensadores en un circuito amplificador.
+- Aprender a realizar circuitos eléctricos que realizen amplificaciones de sonido.
+- Realizar el montaje de circuitos integrados, condensadores y potenciadores.
 
 ### 4.2. REQUISITOS PREVIOS
 
@@ -32,7 +32,7 @@
 
 ### 4.3. INFORMACION GENERAL
 
-
+Un amplificador de audio es un dispositivo que contiene circuitos electrónicos que permiten aumentar o amplificar las señales de audio y entregar una potencia necesaria para los altavoces o parlantes. El circuito integrado LM 386 se usa típicamente como amplificador de audio, se usa en los amplificadores de la computadora, radios, amplificadores de guitarra, etc. Puede obtenerse una ganancia desde 20 hasta 200 y tener una salida amplificada de máximo 0.75 Watt.
 
 ### 4.4. MATERIAL REQUERIDO
 

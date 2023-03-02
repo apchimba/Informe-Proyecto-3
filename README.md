@@ -38,7 +38,7 @@
 
 Para la elaboración de este proyecto se utilizaron los siguientes materiales:
 
-![](https://github.com/apchimba/Informe-Laboratorio-2/blob/main/materialesescalera.png)
+![](https://github.com/apchimba/Informe-Proyecto-3/blob/main/materialesamplificador.png)
 
 ### 4.5. PROCEDIMIENTO
 

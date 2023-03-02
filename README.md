@@ -28,7 +28,7 @@
 
 ### 4.2. REQUISITOS PREVIOS
 
-- 
+-Conocer las caracteristicas y/o comportamiento de los componentes expuestos en el marco teorico. 
 
 ### 4.3. INFORMACION GENERAL
 

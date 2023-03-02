@@ -42,36 +42,31 @@ Para la elaboración de este proyecto se utilizaron los siguientes materiales:
 
 ### 4.5. PROCEDIMIENTO
 
-1. Colocamos las cajas y mangueras sobre la superficie en la cuel vamos a ensamblar el circuito.
+Pin de C. Integrado: 1 paralelo al 8, 2 paralelo al 7, 3 paralelo al 6 y 4 paralelo al 5.
 
-2. Llevamos dos cables denominados "retornos" a cada una de las cajas de registro que van a comunicar los interruptores.
+1. Identificacmos el sentido de nuestro circuito integrado y lo colocamos en nuestro protoboard.
 
-3. Llevamos una fase desde la caja octogonal a una de las cajas de registro
+2. Hacemos un puente en nuestro circuito integrado desde nuestro pin 2 paralelo al pin 7 con nuestro pin 4 paralelo a nuestro pin 5.
 
-4. Colocamos a partir de la caja de registro restante un cable hacia la caja octogonal que actuara de retorno
+3. Ahora conectamos el pin positivo del condensador al pin 5 de del circuito integrado, y el pin negativo del condesador hacia otro punto del protoboard.
 
-5. Empalmamos las conecciones:
-  
-  5.1. Desforramos las puntas de todos los cables.
-  
-  5.2. Conectamos la fase en el pin del medio de cualquiera de los interruptores
-  
-  5.3. Conectamos en los pines restantes los cables de retorno que comunican los interruptores
-  
-  5.4. Conectamos el cable de retorno (neutro) en el pin medio del interruptor restante.
-  
-  5.5. repetimos el punto 5.3. en el interruptor.
+4. Colocamos el potenciometro y conectamos desde el pin de 2 del circuito integrado hasta el pin izquierdo del potenciometro.
 
-6. Aseguramos los interruptores a las cajas de registro
+5. Ahora conectamos desde el pin de 3 del circuito integrado hasta el pin central del potenciometro.
 
-7. Conectamos la boquilla:
-  
-  7.1. conectamos el neutro en la boquilla en el tornillo mas alejado del centro
-  
-  7.2. el retorno probeniente del interruptor va conectado al tornillo fase de la roseta
-  
-  7.3. conectamos las fases restantes entre si.
-  
+6. El pin derecho del potenciometro y el pin 4 del circuito integrado serán la entrada de señal de audio.
+
+7. Una vez identificada la entrada de señal de audio, conectamos el cable plug al pin derecho del potenciometro y el pin 4 del circuito integrado.
+
+8. Conectamos el cable plug a un reproductor de audio.
+
+9. Hacemos un puente desde el pin 2 del circuito integrado hasta el negativo de nuestro protoboard.
+
+10. Y otro desde el pin 6 hasta el lado positivo del protoboard.
+
+11. Ahora conectamos un cable del parlante a la parte negativa de nuestro condensador y nuestro otro cable del parlante al pin 4 del circuito integrado
+
+12. Y por último conectamos nuestra bateria de 5V/12v con nuestros cables positivo y negativo salidos del protoboard, y probar nuestro amplificador casero de sonido.
 
 ## 5. VIDEO
 

@@ -82,3 +82,9 @@ En relación a lo anterior expuesto, se puede demostrar que el aprendizaje teori
 
 
 ## 7. BIBLIOGRAFIA
+
+Circuito amplificador de audio a transistores - Proyecto para armar. (s. f.). Proyectos Electronicos. https://viasatelital.com/proyectos_electronicos/proyectos010.php
+
+M. (2022, 18 noviembre). Amplificador lm386: Todo lo que necesitas saber. Servicios llave en mano de fabricación de placas de circuito y montaje de placas de circuito impreso - WellPCB. https://placapcb.com/Amplificador-lm386.html
+
+Los condensadores. (2012, 28 diciembre). LA TECNOLOGÍA EN LA ESO. https://www3.gobiernodecanarias.org/medusa/ecoblog/jgutcor/los-condensadores/

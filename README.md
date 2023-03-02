@@ -8,9 +8,9 @@
 
 ## 1. OBJETIVOS
 
-- Analizar y comprender el funcionamiento del circuito - interruptor de 3 vias.
-- Aprender a realizar circuitos eléctricos para encendido y apagado de la luminaria en 2 puntos diferentes.
-- Realizar el montaje de cajetines, boquillas, mangueras en la tabla.
+- Analizar y comprender el funcionamiento de los condensadores en un circuito amplificador.
+- Aprender a realizar circuitos eléctricos que realizen amplificaciones de sonido.
+- Realizar el montaje de circuitos integrados, condensadores y potenciadores.
 
 ## 2. MARCO TEORICO
 
